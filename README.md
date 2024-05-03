@@ -1,7 +1,5 @@
 # Rust Chip8 Emulator
 
-## Introduction
-
 A Chip8 Emulator made in Rust. This project runs .ch8 files made for the Chip-8 programming language. This is a beginner project in both Rust and emulation, and I intend to pursue more Rust systems programming projects in the future.
 
 ## Usage
